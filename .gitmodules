@@ -40,9 +40,6 @@
 [submodule "yum-epel"]
 	path = yum-epel
 	url = https://github.com/opscode-cookbooks/yum-epel
-[submodule "layer-custom"]
-	path = layer-custom
-	url = https://github.com/amazonwebservices/opsworks-elasticsearch-cookbook
 [submodule "opsworks-elasticsearch-cookbook"]
 	path = opsworks-elasticsearch-cookbook
 	url = https://github.com/amazonwebservices/opsworks-elasticsearch-cookbook.git
